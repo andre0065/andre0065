@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
+### boas vindas ao meu perfil💙
 **andre0065/andre0065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome Èandre0065
+_estou estudando ao [alura](https://www.alura.com.br)
 
-Here are some ideas to get you started:
+estou me desenvolvendo na linguagem javaescript
+ultiliso este espaço para a minha organizaçao e compartilhamentodos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçeentrar em contato comigo
+
+00001114374064sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
+https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif
